@@ -1,0 +1,43 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "count" : "{count, plural, =0{no count} =1{1 count} other{{count} counts}}",
+  "@count" : {
+    "description": "Show count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "manage_task" : "Manage your tasks",
+  "daily_routine" : "Create daily routine",
+  "organize_task" : "Organize your tasks",
+  "manage_task_des" : "You can easily manage all of your daily tasks in DoMe for free",
+  "daily_routine_des" : "In Uptodo  you can create your personalized routine to stay productive",
+  "organize_task_des" : "You can organize your daily tasks by adding your tasks into separate categories",
+  "skip" : "Skip",
+  "back" : "Back",
+  "next" : "Next",
+  "get_started" : "Get Started",
+  "welcome_uptodo" : "Welcome to UpTodo",
+  "login_des" : "Please login to your account or create new account to continue",
+  "login" : "Login",
+  "create_account" : "Create account",
+  "register" : "Register",
+  "username" : "Username",
+  "enter_your_username" : "Enter your Username",
+  "password" : "Password",
+  "confirm_password" : "Confirm Password",
+  "login_with_google" : "Login with Google",
+  "login_with_apple" : "Login with Apple",
+  "register_with_google" : "Register with Google",
+  "register_with_apple" : "Register with Apple",
+  "or" : "or",
+  "not_have_an_account" : "Don’t have an account?",
+  "have_account" : "Already have an account?",
+  "mismatch_pass" : "Mismatched passwords. Please make sure both fields are identical.",
+  "invalid_email" : "Invalid email ID. Make sure you've entered a properly formatted email address."
+}
